@@ -1,9 +1,9 @@
 # cpcfi_problems
 
-- NAME:
-- CODEFORCES USER: 
-- GENERATION NUMBER:
-- MOST DIFFICULT TOPIC: 
+- NAME: Ana Cecilia Fragoso Islas
+- CODEFORCES USER: anafragoso2
+- GENERATION NUMBER: 2
+- MOST DIFFICULT TOPIC: Gráficas, cadenas, paradigmas de programación
 
 # How to use this repo?
 
